@@ -8,9 +8,7 @@ Welcome to the Cyclistic Bikeshare Analysis project repository. This project, co
 - [About the Dataset](#about-the-dataset)
 - [Data Analysis](#data-analysis)
 - [Key Insights](#key-insights)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
